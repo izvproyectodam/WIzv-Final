@@ -1,0 +1,41 @@
+<resources>
+    <!-- wizv -->
+
+    <string name="aceptar">Aceptar</string>
+    <string name="app_name">WIzv</string>
+
+    <string name="borrar_notificaciones">Borrar notificaciones</string>
+
+    <string name="calendario_no">No se ha podido agregar al calendario.</string>
+    <string name="calendario_permiso">Para poder guardar esta notificación en el calendario, se debe proporcionar a continuación el permiso necesario.</string>
+    <string name="calendario_permiso_no">La aplicación no tiene permiso para guardar eventos en el calendario.</string>
+    <string name="calendario_si">Se ha agregado al calendario.</string>
+    <string name="calendario_titulo">Permiso para guardar en el calendario</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="cerrar_sesion">Cerrar sesión</string>
+    <string name="clave">Contraseña</string>
+    <string name="conectando">Estableciendo conexión ...</string>
+
+    <string name="entrar">Entrar</string>
+    <string name="error">Error</string>
+    <string name="error_acceso">Error: falta nombre de usuario y/o clave de acceso</string>
+
+    <string name="ies">IES Zaidín Vergeles</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+
+    <string name="loading">Cargando</string>
+
+    <string name="no_data">Sin datos</string>
+    <string name="nombre">Nombre</string>
+    <string name="notificacion">Notificación</string>
+    <string name="notificaciones">Notificaciones</string>
+
+    <string name="recordar">Recordar</string>
+
+    <string name="salir_aplicacion">Salir de la aplicación</string>
+    <string name="seguro">¿Seguro?</string>
+    <string name="sinclave">Acceder sin clave de acceso</string>
+
+    <string name="vacio">No tiene notificaciones</string>
+    <string name="ver_notificaciones">Ver notificaciones</string>
+</resources>

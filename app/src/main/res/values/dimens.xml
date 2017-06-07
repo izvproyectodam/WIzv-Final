@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="card_land_margin">100dp</dimen>
+    <dimen name="double_margin">32dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="normal_margin">16dp</dimen>
+    <dimen name="toolbar_extended">200dp</dimen>
+</resources>
